@@ -3,13 +3,6 @@
 
 Welcome to the **200 Days of Coding** project! This repository documents a journey of consistent coding practice, learning, and growth over 200 days. Each day focuses on solving problems, building projects, and improving programming skills.
 
-## Table of Contents
-- [Overview](#overview)
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Overview
 The goal of this project is to:
 - Solve algorithmic challenges.
