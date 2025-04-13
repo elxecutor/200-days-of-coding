@@ -35,9 +35,8 @@ def measure_step_time(n):  # return the steps and time taken to find the cube ro
 
 if __name__ == "__main__":
 
-    max_digits = 9  # You can set this to any maximum number of digits
-    input_sizes = []
-    steps, times = [], []
+    max_digits = 10  # You can set this to any maximum number of digits
+    input_sizes, steps, times = [], [], []
 
     for digits in range(1, max_digits + 1):  # Loop through different number of digits
         number = 10**digits  # Generate random number with 'digits' digits
@@ -45,6 +44,8 @@ if __name__ == "__main__":
         input_sizes.append(digits)  # Record the number of digits
         steps.append(step)  # Measure the steps taken
         times.append(time_taken)  # Measure the time taken
+
+    plt.figure(figsize=(14, 6))
 
     # Plotting the result
     plt.subplot(1, 2, 1)
