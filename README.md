@@ -1,17 +1,16 @@
-
 # 200 Days of Coding
 
-Welcome to the **200 Days of Coding** project! This repository documents a journey of consistent coding practice, learning, and growth over 200 days. Each day focuses on solving problems, building projects, and improving programming skills.
+Welcome to the **200 Days of Coding** project! This repository chronicles a journey of consistent coding practice, learning, and growth over 200 days. Each day is dedicated to solving problems, building projects, and enhancing programming skills.
 
-## Overview
-The goal of this project is to:
-- Solve algorithmic challenges.
-- Build small projects to reinforce concepts.
-- Explore new technologies and tools.
-- Document progress and learnings.
+## Objectives
+The primary objectives of this project are to:
+- Tackle algorithmic challenges.
+- Develop small projects to solidify concepts.
+- Experiment with new technologies and tools.
+- Record progress and key learnings.
 
-## Contributing
-We welcome contributions! Please read the [Contributing Guidelines](CONTRIBUTING.md) and adhere to the [Code of Conduct](CODE_OF_CONDUCT.md) before submitting issues or pull requests.
+## How to Contribute
+We encourage contributions! Please review the [Contributing Guidelines](CONTRIBUTING.md) and follow the [Code of Conduct](CODE_OF_CONDUCT.md) before submitting issues or pull requests.
 
 ## License
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the license terms.
+This project is distributed under the [MIT License](LICENSE).
