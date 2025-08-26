@@ -23,3 +23,10 @@ Internet -- Router -- Switch -- PC/Laptop
 | Switch       | Connects multiple devices locally    |
 | Network Card | Enables device to connect to network |
 | Ethernet Cable| Physical connection for data transfer|
+
+## DSA Problem: Number of Connected Components in a Network
+
+**Problem:**
+Given n computers and a list of connections, return the number of connected components in the network.
+
+**Solution:** See `dsa/network_connected_components.py` for the Python implementation.
