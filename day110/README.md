@@ -1,8 +1,6 @@
 ## Summary & Lessons Learned
 
 This mini project covered:
-- Identifying and checking Ethernet and Wi-Fi connections
-- Basic network troubleshooting (ping, DNS, gateway)
 
 ### Troubleshooting Checklist
 1. Check physical connections (Ethernet/Wi-Fi)
@@ -12,3 +10,10 @@ This mini project covered:
 5. Find default gateway
 
 Scripts and documentation for each step are provided in the respective folders.
+
+## DSA Problem: Climbing Stairs
+
+**Problem:**
+You are climbing a staircase. It takes n steps to reach the top. Each time you can climb 1 or 2 steps. Return the number of distinct ways to reach the top.
+
+**Solution:** See `dsa/climbing_stairs.py` for the Python implementation.
