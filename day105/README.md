@@ -22,3 +22,10 @@ Write a checklist for preventive maintenance and common troubleshooting steps.
 - Verify connections
 - Restart device
 - Check for error messages
+
+## DSA Problem: Min Stack
+
+**Problem:**
+Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.
+
+**Solution:** See `dsa/min_stack.py` for the Python implementation.
