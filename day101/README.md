@@ -22,3 +22,10 @@ Create a diagram or list of hardware components and describe their functions.
 | HDD/SSD    | Stores data and files                      |
 | Power Supply| Provides power to all components          |
 | Peripherals| Input/output devices for user interaction  |
+
+## DSA Problem: Two Sum
+
+**Problem:**
+Given an array of integers `nums` and an integer `target`, return indices of the two numbers such that they add up to `target`.
+
+**Solution:** See `dsa/two_sum.py` for the Python implementation.
