@@ -31,3 +31,10 @@ client.close()
 ```
 
 Run the server first, then the client in separate terminals.
+
+## DSA Problem: Move Zeroes
+
+**Problem:**
+Given an array, move all zeroes to the end while maintaining the relative order of the non-zero elements.
+
+**Solution:** See `dsa/move_zeroes.py` for the Python implementation.

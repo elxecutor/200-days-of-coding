@@ -11,3 +11,10 @@ The OSI (Open Systems Interconnection) Model is a conceptual framework used to u
 7. **Application**: End-user applications (HTTP, FTP, etc.)
 
 Each layer serves a specific function in network communication.
+
+## DSA Problem: Intersection of Two Arrays
+
+**Problem:**
+Given two arrays, return their intersection as a list of unique elements.
+
+**Solution:** See `dsa/intersection_of_two_arrays.py` for the Python implementation.
